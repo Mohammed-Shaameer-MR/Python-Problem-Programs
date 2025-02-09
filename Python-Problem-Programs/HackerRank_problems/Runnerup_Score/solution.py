@@ -1,0 +1,5 @@
+n = int(input("Enter the no of scores:"))
+print("Enter the scores below without spaces:-")
+arr = list(set(map(int, input().split())))
+arr.sort(reverse=True)
+print(f"Runner up Score : {arr[1]}")
