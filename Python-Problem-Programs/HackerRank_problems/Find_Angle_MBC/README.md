@@ -1,6 +1,6 @@
 # Find Angle MBC
 
-
+![Problem Diagram](https://github.com/Mohammed-Shaameer-MR/Python-Problem-Programs/blob/main/Python-Problem-Programs/HackerRank_problems/Find_Angle_MBC/problem_image.png?raw=true)
 
 ## Problem Statement
 
