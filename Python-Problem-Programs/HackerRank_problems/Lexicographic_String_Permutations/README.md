@@ -38,6 +38,7 @@ KA
 KC
 KH
 
+Each permutation on an individual line.
 ## Hint  
 - Consider using the `itertools.permutations()` function to generate permutations efficiently.
 
