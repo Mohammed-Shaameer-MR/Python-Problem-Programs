@@ -36,7 +36,7 @@ CH
 CK
 HK
 
-each on an individual line.
+Each combination on an individual line.
 
 ## Hint  
 - Consider using the `itertools.combinations()` function to generate combinations efficiently.
