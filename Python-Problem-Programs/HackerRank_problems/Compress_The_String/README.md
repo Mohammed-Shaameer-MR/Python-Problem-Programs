@@ -28,3 +28,6 @@ A single line of output consisting of the modified string.
 - The character **1** occurs once → **(1, 1)**
 - The character **2** occurs three times → **(3, 2)**
 - The character **3** occurs once
+
+### Output:
+(1, 1) (3, 2) (1, 3) (2, 1)
