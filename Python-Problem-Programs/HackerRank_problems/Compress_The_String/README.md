@@ -12,7 +12,7 @@ A single line of input consisting of the string **S**.
 
 ## Output Format
 
-A single line of output consisting of the modified string.
+A single line of output consisting of the modified string with space.
 
 ## Constraints
 
