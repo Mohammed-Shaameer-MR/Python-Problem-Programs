@@ -22,7 +22,7 @@ Print the **item_name** and **net_price** in order of its first occurrence.
 ## Example
 
 ### Input
-'''
+```
 9
 BANANA FRIES 12
 POTATO CHIPS 30
@@ -33,7 +33,7 @@ CANDY 5
 CANDY 5
 CANDY 5
 POTATO CHIPS 30
-'''
+```
 
 ### Processing
 - **BANANA FRIES** → Quantity: `1`, Price: `12` → **Net Price: `12`**
@@ -42,12 +42,12 @@ POTATO CHIPS 30
 - **CANDY** → Quantity: `4`, Price: `5` → **Net Price: `20`**
 
 ### Output
-'''
+```
 BANANA FRIES 12
 POTATO CHIPS 60
 APPLE JUICE 20
 CANDY 20
-'''
+```
 
 ## Hints
 - Try using OrderedLists.
