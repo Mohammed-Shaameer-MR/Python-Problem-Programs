@@ -7,7 +7,7 @@ You are given `n` words. Some words may repeat. For each word, output its number
 2. The next `n` lines each contain a word.  
 
 ## **Constraints**  
-- \( 1 \leq n \leq 10^5 \)  
+- **1 <= n <= 10^5**  
 - The sum of the lengths of all words does not exceed \( 10^6 \).  
 - All words consist of lowercase English letters only.  
 
