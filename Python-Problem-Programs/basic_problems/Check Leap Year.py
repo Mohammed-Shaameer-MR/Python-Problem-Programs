@@ -1,4 +1,3 @@
-
 year=int(input("Enter the year:"))
 
 def is_leap(year):
