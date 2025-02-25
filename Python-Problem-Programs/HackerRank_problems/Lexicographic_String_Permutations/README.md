@@ -25,6 +25,7 @@ The possible size **2** permutations of the string "HACK" in lexicographic order
 AC, AH, AK, CA, CH, CK, HA, HC, HK, KA, KC, KH.
 
 ### Output  
+```
 AC
 AH
 AK
@@ -37,6 +38,7 @@ HK
 KA
 KC
 KH
+```
 
 Each permutation on an individual line.
 ## Hint  
