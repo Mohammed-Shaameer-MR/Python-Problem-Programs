@@ -38,6 +38,7 @@ Binary representation of `17` is **`10001`** (5 characters).
 Each number must be right-aligned to **width = 5**.  
 
 #### Output
+```
     1     1     1     1
     2     2     2    10
     3     3     3    11
@@ -55,7 +56,7 @@ Each number must be right-aligned to **width = 5**.
    15    17     F  1111
    16    20    10 10000
    17    21    11 10001
-
+```
 
 ### Hints  
 - Find **binary width** using `len(bin(n)[2:])`.  
