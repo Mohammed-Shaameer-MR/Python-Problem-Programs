@@ -24,7 +24,8 @@ HACK 2
 The possible combinations, sorted in lexicographic order, are:  
 A, C, H, K, AC, AH, AK, CH, CK, HK.
 
-### Output  
+### Output
+```
 A
 C
 H
@@ -35,6 +36,7 @@ AK
 CH
 CK
 HK
+```
 
 Each combination on an individual line.
 
