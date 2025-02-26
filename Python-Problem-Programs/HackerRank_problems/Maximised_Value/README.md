@@ -32,10 +32,12 @@ Output a single integer representing the maximum possible value after applying t
 ## Example
 
 ### Input
+```
 3 1000
 2 5 4
 3 7 8 9
 5 5 7 8 9 10
+```
 
 ### Processing
 Choose 5 from the first list, 9 from the second list, and 10 from the third list.  
