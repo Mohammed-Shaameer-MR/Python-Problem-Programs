@@ -20,9 +20,10 @@ A single line of output consisting of the modified string with space.
 - **1 ≤ |S| ≤ 10⁴**
 
 ## Example
-
 ### Input:
+```
 1222311
+```
 
 ### Processing:
 - The character **1** occurs once → **(1, 1)**
@@ -30,4 +31,6 @@ A single line of output consisting of the modified string with space.
 - The character **3** occurs once
 
 ### Output:
+```
 (1, 1) (3, 2) (1, 3) (2, 1)
+```
