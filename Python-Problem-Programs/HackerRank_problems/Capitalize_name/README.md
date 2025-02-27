@@ -24,17 +24,19 @@ Implement the function `capitalize_name(S)`, which:
 - Print the capitalized string **S**.  
 
 ### Example  
-#### Input  
+#### Input
+```
 chris alan  
-
+```
 
 #### Processing  
 - Convert each word's **first letter** to uppercase.  
 - Keep other characters **unchanged**.  
 
 #### Output  
+```
 Chris Alan
- 
+``` 
 
 ### Hints  
 - Use Python’s **`.title()`** or **`.capitalize()`** methods.  
