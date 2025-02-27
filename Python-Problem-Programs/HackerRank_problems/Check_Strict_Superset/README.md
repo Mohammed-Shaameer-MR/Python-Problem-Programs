@@ -26,10 +26,12 @@ The input consists of multiple lines:
 
 ### Example  
 #### Input
+```
 1234567 8 9 10 11 12 23 45 84 78
 2
 12345
 100 11 12
+```
 
 #### Processing
 - **Set A**: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 23, 45, 78, 84}
@@ -39,7 +41,9 @@ The input consists of multiple lines:
 - **Set A** is a strict superset of **Set 1** but not of **Set 2** because **100** is not in **Set A**.
 
 #### Output
+```
 False
+```
 
 ### Hints  
 - Use Python's set operations (`>`, `issuperset()`, etc.) to check if one set is a strict superset of another.  
