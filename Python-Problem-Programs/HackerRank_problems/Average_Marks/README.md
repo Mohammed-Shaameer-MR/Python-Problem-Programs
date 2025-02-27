@@ -25,12 +25,13 @@ The input consists of multiple lines:
 
 ### Example  
 #### Input
+```
 3  
 Krishna 67 68 69  
 Arjun 70 98 63  
 Malika 52 56 60  
 Malika  
-  
+```
 
 #### Processing  
 - Marks for **Malika**: `{52, 56, 60}`  
@@ -39,8 +40,9 @@ Malika
 - Compute average: **168 / 3 = 56.00**  
 
 #### Output 
+```
 56.00
-  
+```  
 
 ### Hints  
 - Use a **dictionary** to store student names as keys and marks as values.  
