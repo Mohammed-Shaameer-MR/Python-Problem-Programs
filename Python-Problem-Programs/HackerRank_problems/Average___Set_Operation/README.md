@@ -26,9 +26,10 @@ The input consists of two lines:
 
 ### Example  
 #### Input 
+```
 10  
 161 182 161 154 176 170 167 171 170 174  
- 
+``` 
 
 #### Processing 
 - Extract distinct heights: `{154, 161, 167, 170, 171, 174, 176, 182}`  
@@ -36,9 +37,10 @@ The input consists of two lines:
 - Count of distinct heights: 8  
 - Compute average: 1355 / 8 = 169.375 
 
-#### Output    
+#### Output
+```
 169.375  
-
+```
 
 ### Hints  
 - Use Python's `set()` function to extract unique heights.  
