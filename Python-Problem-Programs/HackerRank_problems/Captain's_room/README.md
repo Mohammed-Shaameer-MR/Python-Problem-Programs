@@ -29,9 +29,10 @@ The input consists of **two lines**:
 
 ### Example  
 #### Input
+```
 3  
 1 2 3 6 2 3 1 1 2 3  
-
+```
 
 #### Processing  
 - Each **family room** appears **3 times**.  
@@ -39,8 +40,9 @@ The input consists of **two lines**:
 - The unique room number is **6**.  
 
 #### Output 
+```
 6
- 
+``` 
 
 ### Hints  
 - Use Python’s **collections.Counter** or **set operations**.  
