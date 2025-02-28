@@ -23,6 +23,7 @@ For each word in **Group B**, check whether the word appears in **Group A**. If 
 ## Example  
 
 ### Input
+```
 5 2  
 a  
 a  
@@ -31,14 +32,17 @@ a
 b  
 b  
 a  
+```
 
 ### Processing  
 - **'a'** appears at positions **1, 2, and 4** in **Group A**.  
 - **'b'** appears at positions **3 and 5** in **Group A**.  
 
 ### Output  
+```
 1 2 4  
 3 5    
+```
 
 ## Explanation  
 - The first word in **Group B**, **'a'**, appears **three times** at positions **1, 2, and 4** in **Group A**.  
