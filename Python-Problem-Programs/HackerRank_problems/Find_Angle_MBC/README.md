@@ -32,8 +32,10 @@ The result should be **rounded to the nearest integer**.
 ## Example
 
 ### Input
+```
 10
 10
+```
 
 ### Processing
 - Given **AB = 10** and **BC = 10**.
@@ -41,5 +43,6 @@ The result should be **rounded to the nearest integer**.
 - **θ = 45°**.
 
 ### Output
+```
 45°
-
+```
