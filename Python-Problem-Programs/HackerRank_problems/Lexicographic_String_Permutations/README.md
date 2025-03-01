@@ -17,7 +17,9 @@ Print the permutations of the string **S** on separate lines.
 ## Example  
 
 ### Input  
+```
 HACK 2
+```
 
 ### Processing  
 The possible size **2** permutations of the string "HACK" in lexicographic order are:
