@@ -32,9 +32,10 @@ The input consists of:
 ### Example  
 
 #### Input  
+```
 AABCAAADA  
 3  
-  
+```
 
 #### Processing  
 1. Split `s` into substrings: `["AAB", "CAA", "ADA"]`.  
@@ -44,10 +45,11 @@ AABCAAADA
    - `"ADA"` → `"AD"`  
 
 #### Output  
+```
 AB  
 CA  
-AD  
-  
+AD 
+```
 
 ### Hints  
 - Use slicing to extract substrings.  
