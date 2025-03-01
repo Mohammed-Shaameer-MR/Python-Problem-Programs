@@ -49,4 +49,6 @@ Choose 5 from the first list, 9 from the second list, and 10 from the third list
 - 206 mod 1000 = 206  
 
 ### Output
+```
 206
+```
