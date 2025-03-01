@@ -18,7 +18,9 @@ Print the different combinations of string **S** on separate lines.
 ## Example  
 
 ### Input  
+```
 HACK 2
+```
 
 ### Processing  
 The possible combinations, sorted in lexicographic order, are:  
