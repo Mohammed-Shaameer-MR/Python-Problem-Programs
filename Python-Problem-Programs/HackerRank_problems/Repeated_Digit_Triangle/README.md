@@ -26,17 +26,21 @@ Print **N-1** lines as explained above.
 ## Example  
 
 ### Input:
+```
 5
+```
 
 ### Processing:  
 1. For each number **i** (from **1** to **N-1**), generate a number that consists of **i** repeated **i** times.  
 2. Print the generated number.  
 
 ### Output:
+```
 1  
 22  
 333  
 4444  
+```
 
 ## Hints  
 - Use **mathematical operations** instead of string manipulation.  
