@@ -27,7 +27,9 @@ Print the palindromic triangle of size **N**.
 ## Example  
 
 ### **Input:**  
+```
 5
+```
 
 ### **Processing:**  
 1. For each row **i** (from 1 to **N**), generate numbers in increasing order from **1** to **i**.  
@@ -35,11 +37,13 @@ Print the palindromic triangle of size **N**.
 3. Print the generated sequence.  
 
 ### **Output:**  
+```
 1  
 121  
 12321  
 1234321  
 123454321  
+```
 
 ## Hints  
 - Use **mathematical operations** instead of string manipulation.  
