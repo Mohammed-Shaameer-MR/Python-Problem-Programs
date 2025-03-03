@@ -24,8 +24,10 @@ Implement a function that:
 ### Example  
 
 #### Input  
+```
 5  
 2 3 6 6 5  
+```
 
 #### Processing  
 1. The given scores are `[2, 3, 6, 6, 5]`.  
@@ -33,8 +35,9 @@ Implement a function that:
 3. The second-highest (runner-up) score is `5`.  
 
 #### Output  
+```
 5  
- 
+```
 
 ### Hints  
 - Convert the list to a **set** to remove duplicates, then find the second-largest value.  
