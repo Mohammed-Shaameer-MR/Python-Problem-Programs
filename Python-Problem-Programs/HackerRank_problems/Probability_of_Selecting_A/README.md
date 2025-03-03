@@ -27,9 +27,11 @@ Output a single line containing the probability, rounded to 3 decimal places.
 ## Example
 
 ### Input
+```
 4
 aacd
 2
+```
 
 ### Processing
 - Possible selections of `K=2` indices from `{1, 2, 3, 4}`:  
@@ -40,7 +42,9 @@ aacd
 - Probability = `5/6 = 0.8333`
 
 ### Output
+```
 0.833
+```
 
 ## Hints
 - Use combinatorics to determine possible index selections.
