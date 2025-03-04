@@ -31,8 +31,10 @@ Each line should contain the four values for `i` in the specified order, properl
 ### Example 
 
 #### Input
+```
 17
-  
+```
+
 #### Processing 
 Binary representation of `17` is **`10001`** (5 characters).  
 Each number must be right-aligned to **width = 5**.  
