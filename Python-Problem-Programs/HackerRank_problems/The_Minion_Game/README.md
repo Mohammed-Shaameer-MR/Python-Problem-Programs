@@ -33,14 +33,18 @@ A **single string** `S`.
 ### Example  
 
 #### Input
+```
 BANANA
+```
 
 #### Processing  
 - **Kevin (Vowels: A)** → Possible substrings: `"A", "AN", "ANA", "ANAN", "ANANA", ...`  
 - **Stuart (Consonants: B, N)** → Possible substrings: `"B", "BA", "BAN", ...`  
 
 #### Output
+```
 Stuart 12
+```
 
 ### Hints 
 - **Count occurrences efficiently** instead of generating all substrings.  
