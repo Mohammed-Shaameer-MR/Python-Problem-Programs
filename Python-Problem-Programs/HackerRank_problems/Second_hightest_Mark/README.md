@@ -27,6 +27,7 @@ Implement a function that:
 ### Example  
 
 #### Input  
+```
 5  
 Harry  
 37.21  
@@ -38,7 +39,8 @@ Akriti
 41  
 Harsh  
 39  
- 
+```
+
 #### Processing  
 1. The given student records:  
    
@@ -49,8 +51,10 @@ Harsh
 4. Sorting their names alphabetically gives **Berry, Harry**.  
 
 #### Output  
+```
 Berry  
 Harry   
+```
 
 ### Hints  
 - Use a **set** to find the unique grades and determine the second lowest.  
