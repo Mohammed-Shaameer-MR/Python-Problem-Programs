@@ -25,10 +25,12 @@ At the end, you must **output your final happiness score**.
 ### Example  
 
 #### Input
+```
 3 2  
 1 5 3  
 1 3  
 5 7  
+```
 
 #### Processing  
 - **Array**: `[1, 5, 3]`  
@@ -44,7 +46,9 @@ Calculation:
 Final happiness score: **`1`**  
 
 #### **Output**  
+```
 1  
+```
 
 ### Hints  
 - Use **sets** for quick lookups (`O(1)` time complexity).  
