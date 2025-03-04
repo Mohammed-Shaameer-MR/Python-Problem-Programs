@@ -32,7 +32,7 @@ Print the total money earned by Raghu.
 ## Example  
 
 ### Input  
-#### Processing:
+```
 10  
 2 3 4 5 6 8 7 6 5 18  
 6  
@@ -42,9 +42,12 @@ Print the total money earned by Raghu.
 4 40  
 18 60  
 10 50  
+```
 
 ### Output
+```
 200
+```
 
 ### Processing 
 - **Customer 1:** Purchased size **6** shoe for **$55**.  
