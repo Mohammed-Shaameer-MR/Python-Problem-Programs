@@ -23,7 +23,7 @@ class Calculator:
             cmd = input("Enter command: ").strip().lower()
 
             if cmd == 'exit':
-                print("Bye!")
+                print("Bye Bye Bye!")
                 break
 
             parts = cmd.split()
