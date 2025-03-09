@@ -1,3 +1,5 @@
+#Change the case according to the majority case
+
 def num(n):
     x=sum(1 for i in n if i.islower() )
     Y=sum(1 for i in n if i.isupper() )
